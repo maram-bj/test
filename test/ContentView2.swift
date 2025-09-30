@@ -21,7 +21,7 @@ struct ContentView2: View {
                 .padding(20)
             
             VStack (alignment: .leading, spacing: 20) {
-            Text("Yousra Abdelrahman")
+            Text("Yousra Abdelrahman Branch")
                 .font(.largeTitle)
                 .fontWeight(.bold)
                 .foregroundColor(.orange)
